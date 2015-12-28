@@ -1,0 +1,8 @@
+para armar el entorno deben crear una carpeta Diseño por ejemplo y ahí poner los archivos:
+
+.classpath y .project
+
+luego crear una carpeta FactCom que es el paquete que le cree al proyecto y ahí poner todos los archivos restantes, inclusive el del modelo.
+Abrazo
+
+Nano
